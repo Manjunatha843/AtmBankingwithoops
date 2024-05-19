@@ -1,7 +1,7 @@
 package atmBankingusingOopspractice;
 
 public class ATM {
-	
+	//here we are using getter and setter methods.
 	    private double balance;
 	    private double depositAmount;
 	    private double withdrawAmount;
